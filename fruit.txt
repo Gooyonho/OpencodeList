@@ -1,3 +1,5 @@
 # 写这个的目的是我第一次学通过本地opencode客户端结合GitHub来管理自己的代码仓库
 # 为进一步验证本地文件是否上传到GitHub远程仓库，写了这个测试txt文件，后续学习可以忽略
 This is a banana! Come on,UpLoad!!!!
+
+This time i add an Apple ,Please UpLoad
