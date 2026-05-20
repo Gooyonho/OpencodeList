@@ -1,0 +1,15 @@
+api网关账号已分配，请妥善保管api-key。
+1、环境:开发测试
+2、 api-key: sk-aNuYXO1TA4TbpIbVFCGbJg3、
+model格式如下列表:
+aliyun/qwen-plus
+aliyun/deepseek-v3.2
+aliyun/qwen3-coder-flash
+aliyun/qwen-flash
+aliyun/text-embedding-v4
+aliyun/glm-4.6
+aliyun/qwen3-max
+aliyun/kimi-k2-thinking
+aliyun/qwen3-coder-480b-a35b-instructsxzq.com
+aliyun/qwen-mt-flash
+aliyun/qwen3-vl-plus
